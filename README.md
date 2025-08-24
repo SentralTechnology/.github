@@ -4,7 +4,7 @@
 
 ***
 
-![logo](files/sen.jpg)
+![logo](Sen.png)
 [![](https://skillicons.dev/icons?i=html,css,php,js,nodejs,typescript,java,py,cs,git,github,unity)](https://skillicons.dev)
 ***
 
